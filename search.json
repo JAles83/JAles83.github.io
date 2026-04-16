@@ -1,30 +1,65 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Artículos",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "blog-ciencia-datos",
-    "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 16, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 13, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Artículos\nAquí se recopilan todas las publicaciones del blog.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Sobre mí",
     "section": "",
-    "text": "About this blog"
+    "text": "Soy estudiante del Grado en Ciencia de Datos y este blog nace con la idea de reunir apuntes, análisis, reflexiones y proyectos sobre estadística, ciencia de datos e inteligencia artificial.\nTrabajo principalmente con:\n\nR\nPython\nQuarto / R Markdown\nherramientas de análisis reproducible\n\n\n\nEn este blog publicaré contenido sobre:\n\nestadística aplicada\nanálisis multivariante\nmachine learning\nvisualización de datos\nproyectos académicos y personales\nreflexiones sobre IA y su uso práctico\n\n\n\n\nMi intención es usar este espacio como:\n\ncuaderno de aprendizaje\nportfolio técnico\narchivo personal de proyectos y notas\n\n\n\n\nPuedes encontrar mis proyectos y repositorios en GitHub:\nJAles83 en GitHub"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "about.html#qué-encontrarás-aquí",
+    "href": "about.html#qué-encontrarás-aquí",
+    "title": "Sobre mí",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "En este blog publicaré contenido sobre:\n\nestadística aplicada\nanálisis multivariante\nmachine learning\nvisualización de datos\nproyectos académicos y personales\nreflexiones sobre IA y su uso práctico"
+  },
+  {
+    "objectID": "about.html#objetivo",
+    "href": "about.html#objetivo",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Mi intención es usar este espacio como:\n\ncuaderno de aprendizaje\nportfolio técnico\narchivo personal de proyectos y notas"
+  },
+  {
+    "objectID": "about.html#github",
+    "href": "about.html#github",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Puedes encontrar mis proyectos y repositorios en GitHub:\nJAles83 en GitHub"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inicio",
+    "section": "",
+    "text": "Bienvenido a mi blog personal sobre ciencia de datos, estadística e inteligencia artificial.\nAquí iré publicando artículos, notas técnicas y pequeños proyectos relacionados con:\n\nestadística aplicada\nanálisis multivariante\naprendizaje automático\nvisualización de datos\nuso de R y Python en ciencia de datos\n\n\n\nEste sitio nace como un espacio para:\n\nconsolidar lo que voy aprendiendo\ndocumentar análisis reproducibles\nconstruir un portfolio técnico\ncompartir ideas y proyectos relacionados con la IA y la ciencia de datos\n\n\n\n\n\n\nContrastes de hipótesis, intervalos de confianza, regresión y fundamentos estadísticos.\n\n\n\nPCA, clustering, reducción de dimensión e interpretación de resultados.\n\n\n\nModelos supervisados y no supervisados, evaluación y aplicaciones prácticas.\n\n\n\nHerramientas, conceptos, reflexiones y aplicaciones de IA en entornos reales.\n\n\n\n\nConsulta la sección de Artículos para ver las publicaciones del blog."
+  },
+  {
+    "objectID": "index.html#objetivo-del-blog",
+    "href": "index.html#objetivo-del-blog",
+    "title": "Inicio",
+    "section": "",
+    "text": "Este sitio nace como un espacio para:\n\nconsolidar lo que voy aprendiendo\ndocumentar análisis reproducibles\nconstruir un portfolio técnico\ncompartir ideas y proyectos relacionados con la IA y la ciencia de datos"
+  },
+  {
+    "objectID": "index.html#secciones-principales",
+    "href": "index.html#secciones-principales",
+    "title": "Inicio",
+    "section": "",
+    "text": "Contrastes de hipótesis, intervalos de confianza, regresión y fundamentos estadísticos.\n\n\n\nPCA, clustering, reducción de dimensión e interpretación de resultados.\n\n\n\nModelos supervisados y no supervisados, evaluación y aplicaciones prácticas.\n\n\n\nHerramientas, conceptos, reflexiones y aplicaciones de IA en entornos reales."
+  },
+  {
+    "objectID": "index.html#últimos-artículos",
+    "href": "index.html#últimos-artículos",
+    "title": "Inicio",
+    "section": "",
+    "text": "Consulta la sección de Artículos para ver las publicaciones del blog."
   }
 ]

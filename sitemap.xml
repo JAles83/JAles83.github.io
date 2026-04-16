@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jales83.github.io/posts/welcome/index.html</loc>
-    <lastmod>2026-04-16T10:00:26.304Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jales83.github.io/index.html</loc>
-    <lastmod>2026-04-16T10:00:26.301Z</lastmod>
+    <loc>https://jales83.github.io/posts.html</loc>
+    <lastmod>2026-04-16T10:28:27.048Z</lastmod>
   </url>
   <url>
     <loc>https://jales83.github.io/about.html</loc>
-    <lastmod>2026-04-16T10:00:26.301Z</lastmod>
+    <lastmod>2026-04-16T10:27:55.102Z</lastmod>
   </url>
   <url>
-    <loc>https://jales83.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2026-04-16T10:00:26.304Z</lastmod>
+    <loc>https://jales83.github.io/index.html</loc>
+    <lastmod>2026-04-16T10:27:39.970Z</lastmod>
   </url>
 </urlset>
