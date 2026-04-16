@@ -4,35 +4,7 @@
     "href": "posts.html",
     "title": "Artículos",
     "section": "",
-    "text": "Artículos\nAquí se recopilan todas las publicaciones del blog.\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Sobre mí",
-    "section": "",
-    "text": "Soy estudiante del Grado en Ciencia de Datos y este blog nace con la idea de reunir apuntes, análisis, reflexiones y proyectos sobre estadística, ciencia de datos e inteligencia artificial.\nTrabajo principalmente con:\n\nR\nPython\nQuarto / R Markdown\nherramientas de análisis reproducible\n\n\n\nEn este blog publicaré contenido sobre:\n\nestadística aplicada\nanálisis multivariante\nmachine learning\nvisualización de datos\nproyectos académicos y personales\nreflexiones sobre IA y su uso práctico\n\n\n\n\nMi intención es usar este espacio como:\n\ncuaderno de aprendizaje\nportfolio técnico\narchivo personal de proyectos y notas\n\n\n\n\nPuedes encontrar mis proyectos y repositorios en GitHub:\nJAles83 en GitHub"
-  },
-  {
-    "objectID": "about.html#qué-encontrarás-aquí",
-    "href": "about.html#qué-encontrarás-aquí",
-    "title": "Sobre mí",
-    "section": "",
-    "text": "En este blog publicaré contenido sobre:\n\nestadística aplicada\nanálisis multivariante\nmachine learning\nvisualización de datos\nproyectos académicos y personales\nreflexiones sobre IA y su uso práctico"
-  },
-  {
-    "objectID": "about.html#objetivo",
-    "href": "about.html#objetivo",
-    "title": "Sobre mí",
-    "section": "",
-    "text": "Mi intención es usar este espacio como:\n\ncuaderno de aprendizaje\nportfolio técnico\narchivo personal de proyectos y notas"
-  },
-  {
-    "objectID": "about.html#github",
-    "href": "about.html#github",
-    "title": "Sobre mí",
-    "section": "",
-    "text": "Puedes encontrar mis proyectos y repositorios en GitHub:\nJAles83 en GitHub"
+    "text": "Artículos\nAquí se recopilan todas las publicaciones del blog.\n\n\n\n\n\n\n\n\n\n\nTítulo del artículo\n\n\n\nCategoría principal\n\n\n\nDescripción breve del artículo\n\n\n\n\n\nApr 16, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -68,5 +40,75 @@
     "title": "Ciencia de Datos e IA",
     "section": "Últimos artículos",
     "text": "Últimos artículos\nConsulta la sección de Artículos para ver todas las publicaciones del blog."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Soy estudiante del Grado en Ciencia de Datos y este blog nace con la idea de reunir apuntes, análisis, reflexiones y proyectos sobre estadística, ciencia de datos e inteligencia artificial.\nTrabajo principalmente con:\n\nR\nPython\nQuarto / R Markdown\nherramientas de análisis reproducible\n\n\n\nEn este blog publicaré contenido sobre:\n\nestadística aplicada\nanálisis multivariante\nmachine learning\nvisualización de datos\nproyectos académicos y personales\nreflexiones sobre IA y su uso práctico\n\n\n\n\nMi intención es usar este espacio como:\n\ncuaderno de aprendizaje\nportfolio técnico\narchivo personal de proyectos y notas\n\n\n\n\nPuedes encontrar mis proyectos y repositorios en GitHub:\nJAles83 en GitHub"
+  },
+  {
+    "objectID": "about.html#qué-encontrarás-aquí",
+    "href": "about.html#qué-encontrarás-aquí",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "En este blog publicaré contenido sobre:\n\nestadística aplicada\nanálisis multivariante\nmachine learning\nvisualización de datos\nproyectos académicos y personales\nreflexiones sobre IA y su uso práctico"
+  },
+  {
+    "objectID": "about.html#objetivo",
+    "href": "about.html#objetivo",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Mi intención es usar este espacio como:\n\ncuaderno de aprendizaje\nportfolio técnico\narchivo personal de proyectos y notas"
+  },
+  {
+    "objectID": "about.html#github",
+    "href": "about.html#github",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Puedes encontrar mis proyectos y repositorios en GitHub:\nJAles83 en GitHub"
+  },
+  {
+    "objectID": "posts/post-template.html",
+    "href": "posts/post-template.html",
+    "title": "Título del artículo",
+    "section": "",
+    "text": "Breve presentación del problema que vamos a estudiar y por qué es relevante en ciencia de datos."
+  },
+  {
+    "objectID": "posts/post-template.html#introducción",
+    "href": "posts/post-template.html#introducción",
+    "title": "Título del artículo",
+    "section": "",
+    "text": "Breve presentación del problema que vamos a estudiar y por qué es relevante en ciencia de datos."
+  },
+  {
+    "objectID": "posts/post-template.html#contexto",
+    "href": "posts/post-template.html#contexto",
+    "title": "Título del artículo",
+    "section": "Contexto",
+    "text": "Contexto\nExplicación del escenario donde aparece el problema.\nEjemplo:\n\nanálisis exploratorio\nreducción de dimensión\ninferencia estadística\nmodelización predictiva"
+  },
+  {
+    "objectID": "posts/post-template.html#fundamentos-teóricos",
+    "href": "posts/post-template.html#fundamentos-teóricos",
+    "title": "Título del artículo",
+    "section": "Fundamentos teóricos",
+    "text": "Fundamentos teóricos\nExplicación conceptual clara del método.\nIncluye:\n\ndefiniciones\nintuición geométrica\ninterpretación estadística"
+  },
+  {
+    "objectID": "posts/post-template.html#metodología",
+    "href": "posts/post-template.html#metodología",
+    "title": "Título del artículo",
+    "section": "Metodología",
+    "text": "Metodología\nPasos del análisis:\n\npreparación de los datos\ntransformación de variables\naplicación del método\nvalidación"
+  },
+  {
+    "objectID": "posts/post-template.html#implementación-en-r",
+    "href": "posts/post-template.html#implementación-en-r",
+    "title": "Título del artículo",
+    "section": "Implementación en R",
+    "text": "Implementación en R\n# código reproducible aquí"
   }
 ]
