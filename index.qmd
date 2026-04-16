@@ -7,6 +7,7 @@ page-layout: full
 # Ciencia de Datos e IA
 
 Un espacio personal para aprender, documentar y compartir ideas sobre **estadística**, **análisis multivariante**, **machine learning** e **inteligencia artificial**.
+Estudiante del Grado en Ciencia de Datos · Portfolio técnico en construcción
 
 [Explorar artículos](posts.qmd){.btn-primary}
 [Sobre mí](about.qmd){.btn-secondary}
