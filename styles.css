@@ -97,3 +97,13 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.hero-banner {
+  background-image: url("images/banner.png");
+  background-size: cover;
+  background-position: center;
+  padding: 6rem 2rem;
+  border-radius: 18px;
+  color: white;
+  text-align: center;
+}
