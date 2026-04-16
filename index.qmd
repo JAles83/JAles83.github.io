@@ -1,42 +1,61 @@
 ---
-title: "Inicio"
+title: false
+page-layout: full
 ---
 
-# Blog de Ciencia de Datos e IA
+::: {.hero-banner}
+# Ciencia de Datos e IA
 
-Bienvenido a mi blog personal sobre **ciencia de datos**, **estadística** e **inteligencia artificial**.
+Un espacio personal para aprender, documentar y compartir ideas sobre **estadística**, **análisis multivariante**, **machine learning** e **inteligencia artificial**.
 
-Aquí iré publicando artículos, notas técnicas y pequeños proyectos relacionados con:
+[Explorar artículos](posts.qmd){.btn-primary}
+[Sobre mí](about.qmd){.btn-secondary}
+:::
 
-- estadística aplicada
-- análisis multivariante
-- aprendizaje automático
-- visualización de datos
-- uso de R y Python en ciencia de datos
+## Bienvenido
 
-## Objetivo del blog
+Este blog nace como un cuaderno técnico y un portfolio en construcción. Aquí iré reuniendo apuntes, análisis reproducibles, reflexiones y proyectos relacionados con la ciencia de datos y la IA.
 
-Este sitio nace como un espacio para:
+Mi objetivo es convertir este espacio en un archivo ordenado de aprendizaje, donde cada artículo me ayude no solo a estudiar mejor, sino también a comunicar con claridad conceptos y técnicas que considero importantes.
 
-- consolidar lo que voy aprendiendo
-- documentar análisis reproducibles
-- construir un portfolio técnico
-- compartir ideas y proyectos relacionados con la IA y la ciencia de datos
+## Qué encontrarás aquí
 
-## Secciones principales
-
+::: {.grid}
+::: {.feature-card}
 ### Estadística
-Contrastes de hipótesis, intervalos de confianza, regresión y fundamentos estadísticos.
 
+Contrastes de hipótesis, intervalos de confianza, regresión, simulación y fundamentos para el análisis de datos.
+:::
+
+::: {.feature-card}
 ### Análisis multivariante
-PCA, clustering, reducción de dimensión e interpretación de resultados.
 
+PCA, clustering, reducción de dimensión e interpretación de resultados en contextos reales.
+:::
+
+::: {.feature-card}
 ### Machine Learning
-Modelos supervisados y no supervisados, evaluación y aplicaciones prácticas.
 
+Métodos supervisados y no supervisados, evaluación de modelos y aplicaciones prácticas.
+:::
+
+::: {.feature-card}
 ### Inteligencia artificial
-Herramientas, conceptos, reflexiones y aplicaciones de IA en entornos reales.
+
+Herramientas, ideas y usos de la IA en ciencia de datos, productividad y aprendizaje técnico.
+:::
+:::
+
+## Filosofía del blog
+
+Quiero que este sitio combine tres cosas:
+
+- **aprendizaje riguroso**
+- **explicaciones claras**
+- **análisis reproducible con R y Python**
+
+Más que publicar por publicar, la idea es construir una base de conocimiento útil, comprensible y reutilizable.
 
 ## Últimos artículos
 
-Consulta la sección de [Artículos](posts.qmd) para ver las publicaciones del blog.
+Consulta la sección de [Artículos](posts.qmd) para ver todas las publicaciones del blog.
