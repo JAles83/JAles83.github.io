@@ -37,29 +37,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Inicio",
+    "title": "Ciencia de Datos e IA",
     "section": "",
-    "text": "Bienvenido a mi blog personal sobre ciencia de datos, estadística e inteligencia artificial.\nAquí iré publicando artículos, notas técnicas y pequeños proyectos relacionados con:\n\nestadística aplicada\nanálisis multivariante\naprendizaje automático\nvisualización de datos\nuso de R y Python en ciencia de datos\n\n\n\nEste sitio nace como un espacio para:\n\nconsolidar lo que voy aprendiendo\ndocumentar análisis reproducibles\nconstruir un portfolio técnico\ncompartir ideas y proyectos relacionados con la IA y la ciencia de datos\n\n\n\n\n\n\nContrastes de hipótesis, intervalos de confianza, regresión y fundamentos estadísticos.\n\n\n\nPCA, clustering, reducción de dimensión e interpretación de resultados.\n\n\n\nModelos supervisados y no supervisados, evaluación y aplicaciones prácticas.\n\n\n\nHerramientas, conceptos, reflexiones y aplicaciones de IA en entornos reales.\n\n\n\n\nConsulta la sección de Artículos para ver las publicaciones del blog."
+    "text": "Un espacio personal para aprender, documentar y compartir ideas sobre estadística, análisis multivariante, machine learning e inteligencia artificial.\nExplorar artículos Sobre mí"
   },
   {
-    "objectID": "index.html#objetivo-del-blog",
-    "href": "index.html#objetivo-del-blog",
-    "title": "Inicio",
-    "section": "",
-    "text": "Este sitio nace como un espacio para:\n\nconsolidar lo que voy aprendiendo\ndocumentar análisis reproducibles\nconstruir un portfolio técnico\ncompartir ideas y proyectos relacionados con la IA y la ciencia de datos"
+    "objectID": "index.html#bienvenido",
+    "href": "index.html#bienvenido",
+    "title": "Ciencia de Datos e IA",
+    "section": "Bienvenido",
+    "text": "Bienvenido\nEste blog nace como un cuaderno técnico y un portfolio en construcción. Aquí iré reuniendo apuntes, análisis reproducibles, reflexiones y proyectos relacionados con la ciencia de datos y la IA.\nMi objetivo es convertir este espacio en un archivo ordenado de aprendizaje, donde cada artículo me ayude no solo a estudiar mejor, sino también a comunicar con claridad conceptos y técnicas que considero importantes."
   },
   {
-    "objectID": "index.html#secciones-principales",
-    "href": "index.html#secciones-principales",
-    "title": "Inicio",
-    "section": "",
-    "text": "Contrastes de hipótesis, intervalos de confianza, regresión y fundamentos estadísticos.\n\n\n\nPCA, clustering, reducción de dimensión e interpretación de resultados.\n\n\n\nModelos supervisados y no supervisados, evaluación y aplicaciones prácticas.\n\n\n\nHerramientas, conceptos, reflexiones y aplicaciones de IA en entornos reales."
+    "objectID": "index.html#qué-encontrarás-aquí",
+    "href": "index.html#qué-encontrarás-aquí",
+    "title": "Ciencia de Datos e IA",
+    "section": "Qué encontrarás aquí",
+    "text": "Qué encontrarás aquí\n\n\nEstadística\nContrastes de hipótesis, intervalos de confianza, regresión, simulación y fundamentos para el análisis de datos.\n\n\nAnálisis multivariante\nPCA, clustering, reducción de dimensión e interpretación de resultados en contextos reales.\n\n\nMachine Learning\nMétodos supervisados y no supervisados, evaluación de modelos y aplicaciones prácticas.\n\n\nInteligencia artificial\nHerramientas, ideas y usos de la IA en ciencia de datos, productividad y aprendizaje técnico."
+  },
+  {
+    "objectID": "index.html#filosofía-del-blog",
+    "href": "index.html#filosofía-del-blog",
+    "title": "Ciencia de Datos e IA",
+    "section": "Filosofía del blog",
+    "text": "Filosofía del blog\nQuiero que este sitio combine tres cosas:\n\naprendizaje riguroso\nexplicaciones claras\nanálisis reproducible con R y Python\n\nMás que publicar por publicar, la idea es construir una base de conocimiento útil, comprensible y reutilizable."
   },
   {
     "objectID": "index.html#últimos-artículos",
     "href": "index.html#últimos-artículos",
-    "title": "Inicio",
-    "section": "",
-    "text": "Consulta la sección de Artículos para ver las publicaciones del blog."
+    "title": "Ciencia de Datos e IA",
+    "section": "Últimos artículos",
+    "text": "Últimos artículos\nConsulta la sección de Artículos para ver todas las publicaciones del blog."
   }
 ]
