@@ -2,22 +2,19 @@ project:
   type: website
 
 website:
-  description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "blog-ciencia-datos"
+  title: "Blog de Ciencia de Datos e IA"
+  site-url: https://JAles83.github.io
   navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: bluesky
-        href: https://bsky.app/
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: about.qmd
+        text: Sobre mí
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
+    toc: true
 
 
 
