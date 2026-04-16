@@ -1,15 +1,42 @@
 ---
-title: "blog-ciencia-datos"
-listing:
-  contents: posts
-  feed: true
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Inicio"
 ---
 
+# Blog de Ciencia de Datos e IA
 
+Bienvenido a mi blog personal sobre **ciencia de datos**, **estadística** e **inteligencia artificial**.
+
+Aquí iré publicando artículos, notas técnicas y pequeños proyectos relacionados con:
+
+- estadística aplicada
+- análisis multivariante
+- aprendizaje automático
+- visualización de datos
+- uso de R y Python en ciencia de datos
+
+## Objetivo del blog
+
+Este sitio nace como un espacio para:
+
+- consolidar lo que voy aprendiendo
+- documentar análisis reproducibles
+- construir un portfolio técnico
+- compartir ideas y proyectos relacionados con la IA y la ciencia de datos
+
+## Secciones principales
+
+### Estadística
+Contrastes de hipótesis, intervalos de confianza, regresión y fundamentos estadísticos.
+
+### Análisis multivariante
+PCA, clustering, reducción de dimensión e interpretación de resultados.
+
+### Machine Learning
+Modelos supervisados y no supervisados, evaluación y aplicaciones prácticas.
+
+### Inteligencia artificial
+Herramientas, conceptos, reflexiones y aplicaciones de IA en entornos reales.
+
+## Últimos artículos
+
+Consulta la sección de [Artículos](posts.qmd) para ver las publicaciones del blog.

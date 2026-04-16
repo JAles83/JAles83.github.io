@@ -1,0 +1,13 @@
+---
+title: "Artículos"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [title, date, categories, description]
+---
+
+# Artículos
+
+Aquí se recopilan todas las publicaciones del blog.

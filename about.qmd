@@ -1,19 +1,39 @@
 ---
-title: "About"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
+title: "Sobre mí"
 ---
 
-About this blog
+# Sobre mí
+
+Soy estudiante del **Grado en Ciencia de Datos** y este blog nace con la idea de reunir apuntes, análisis, reflexiones y proyectos sobre estadística, ciencia de datos e inteligencia artificial.
+
+Trabajo principalmente con:
+
+- **R**
+- **Python**
+- **Quarto / R Markdown**
+- herramientas de análisis reproducible
+
+## Qué encontrarás aquí
+
+En este blog publicaré contenido sobre:
+
+- estadística aplicada
+- análisis multivariante
+- machine learning
+- visualización de datos
+- proyectos académicos y personales
+- reflexiones sobre IA y su uso práctico
+
+## Objetivo
+
+Mi intención es usar este espacio como:
+
+- cuaderno de aprendizaje
+- portfolio técnico
+- archivo personal de proyectos y notas
+
+## GitHub
+
+Puedes encontrar mis proyectos y repositorios en GitHub:
+
+[JAles83 en GitHub](https://github.com/JAles83)

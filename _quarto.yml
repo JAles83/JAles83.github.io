@@ -3,18 +3,29 @@ project:
 
 website:
   title: "Blog de Ciencia de Datos e IA"
-  site-url: https://JAles83.github.io
+  site-url: https://jales83.github.io
+  description: "Blog personal sobre estadística, ciencia de datos, análisis multivariante e inteligencia artificial."
   navbar:
     left:
       - href: index.qmd
         text: Inicio
       - href: about.qmd
         text: Sobre mí
+      - href: posts.qmd
+        text: Artículos
+    right:
+      - icon: github
+        href: https://github.com/JAles83
+  page-footer:
+    left: "© 2026 José Manuel Alés Granados"
+    right: "Creado con Quarto y GitHub Pages"
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    smooth-scroll: true
 
-
+editor: source
 
